@@ -1,0 +1,6 @@
+[submodule "MrBayes"]
+	path = MrBayes
+	url = https://github.com/NBISweden/MrBayes.git
+[submodule "MPIScheduler"]
+	path = MPIScheduler
+	url = git@github.com:BenoitMorel/MPIScheduler.git
